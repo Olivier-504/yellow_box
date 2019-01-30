@@ -1,0 +1,21 @@
+.navi  {
+  background-image: linear-gradient(-90deg, /*#5792BE #ccddff*/#ffd200, black);
+  border: black;
+}
+
+.pull-left  {    /*This aligns the logo with text in navbar*/
+  height: auto;
+  width: auto;
+  max-height: 85px;
+  max-width: 85px;
+}
+
+.navbar-default{   /*Overwrites CSS to get rid of white border under nav*/
+   border:none;
+}
+
+.bonjour  {
+  background-image: url(/Users/Olivier/Desktop/Projects/Websites/yellow_box_site/resources/photos/blackbox1.jpeg);
+  background-size: 100% 100%;
+  min-height: 650px;
+}
