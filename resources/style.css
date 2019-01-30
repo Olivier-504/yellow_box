@@ -10,6 +10,11 @@
   max-width: 85px;
 }
 
+.navbar-right  {
+  font-size: 20px;
+  padding-top: 19px;
+}
+
 .navbar-default{   /*Overwrites CSS to get rid of white border under nav*/
    border:none;
 }
@@ -18,4 +23,10 @@
   background-image: url(/Users/Olivier/Desktop/Projects/Websites/yellow_box_site/resources/photos/blackbox1.jpeg);
   background-size: 100% 100%;
   min-height: 650px;
+}
+
+.introduction  {
+  color: #ffd200;
+  text-align: center;
+  padding-top: 75px;
 }
