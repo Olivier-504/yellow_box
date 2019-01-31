@@ -19,14 +19,37 @@
    border:none;
 }
 
+.welcome  {
+  display: block;
+  margin-bottom: 0px; /* Gets rid of whitespace below jumbotron */
+}
+
 .bonjour  {
   background-image: url(/Users/Olivier/Desktop/Projects/Websites/yellow_box_site/resources/photos/blackbox1.jpeg);
   background-size: 100% 100%;
   min-height: 650px;
 }
 
+
 .introduction  {
   color: #ffd200;
   text-align: center;
   padding-top: 75px;
+}
+
+.secondary  {
+  padding-bottom: 60px;
+}
+
+.hola  {
+
+}
+
+.about h1  {
+  text-align: center;
+  margin-top: 0px;  /* Removes whitespace above jumbotron */
+}
+
+.about h3  {
+  text-align: center;
 }
